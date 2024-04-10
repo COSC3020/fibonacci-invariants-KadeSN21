@@ -28,3 +28,5 @@ about the current recursive call.
 Describe your reasoning and the conclusion you've come to. Your reasoning is the
 most important part. You do not need to prove that the invariant is correct. Add
 your answer to this markdown file.
+
+An invarient for this function, is that it will always find the "nth"(current) element in the sequence, as this is always true at the beginning of the recursive call.
