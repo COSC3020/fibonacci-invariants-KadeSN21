@@ -29,4 +29,4 @@ Describe your reasoning and the conclusion you've come to. Your reasoning is the
 most important part. You do not need to prove that the invariant is correct. Add
 your answer to this markdown file.
 
-An invarient for this function, is that the "recursiveArr" variable holds all of the fibonacci numbers up to to current index n, so all elements prior to the current index are held in that array at the start of each recursive call.
+An invarient for this function, is that the "recursiveArr" variable holds the Fibonacci elements n-1, and n-2 every time the recursive call begins. This is true because the recursion does not take place unless the input value is greater than 1.
