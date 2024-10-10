@@ -31,4 +31,5 @@ your answer to this markdown file.
 
 An invarient for this function, is that the "recursiveArr" variable holds all of the fibonacci numbers up to to current index n, so all elements prior to the current index are held in that array at the start of each recursive call.
 
-Help: ChatGPT and Stackoverflow.com
+Help: ChatGPT gave me a better idea on what an invarient was, which helped me to figure out what tan invariant was for this function.
+
